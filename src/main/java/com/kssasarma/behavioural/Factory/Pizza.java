@@ -1,9 +1,9 @@
-package main.java.com.kssasarma.behavioural.Factory;
+package com.kssasarma.behavioural.Factory;
 
 public class Pizza implements IShape {
-    @Override
-    public String getShape() {
-        return "Round";
-    }
-    
+	@Override
+	public String getShape() {
+		return "Round";
+	}
+
 }

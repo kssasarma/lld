@@ -1,4 +1,4 @@
-package main.java.com.kssasarma.behavioural.Singleton;
+package com.kssasarma.behavioural.Singleton;
 
 public class SingletonStaticBlock {
     private static SingletonStaticBlock staticBlockInstance;

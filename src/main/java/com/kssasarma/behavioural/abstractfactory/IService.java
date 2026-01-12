@@ -1,5 +1,5 @@
-package main.java.com.kssasarma.behavioural.abstractfactory;
+package com.kssasarma.behavioural.abstractfactory;
 
 public interface IService {
-    String runService();
+	String runService();
 }

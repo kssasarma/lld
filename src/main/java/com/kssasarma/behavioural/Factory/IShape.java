@@ -1,5 +1,5 @@
-package main.java.com.kssasarma.behavioural.Factory;
+package com.kssasarma.behavioural.Factory;
 
 public interface IShape {
-    public String getShape();
+	public String getShape();
 }

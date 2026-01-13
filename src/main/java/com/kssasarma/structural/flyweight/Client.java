@@ -5,6 +5,7 @@ public class Client {
 
         // yet to implement
         int toDraw = 1000;
+        System.out.print(toDraw);
 
     }
 
